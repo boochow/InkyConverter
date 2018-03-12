@@ -1,0 +1,10 @@
+<Crop_image>
+	<Width>128</Width>
+	<Height>64</Height>
+	<Dithering_Method>
+		<_1_Bayer>0</_1_Bayer>
+		<_2_Floyd-Steinberg>0</_2_Floyd-Steinberg>
+		<_3_Atkinson>1</_3_Atkinson>
+	</Dithering_Method>
+<Crop_image/>
+</Crop_image>
