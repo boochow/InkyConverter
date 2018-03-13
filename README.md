@@ -43,3 +43,7 @@ You need to download and install openFrameworks to build InkyConverter.
 Place InkyConverter source code folder into ```of_v0.9.x\apps\myApps``` folder.
 
 Although openFrameworks is a cross-platform toolkit, I have tested only on Windows 7 + VisualStudio 2015.
+
+## Download
+
+Windows 32bit pre-built binary is [here](http://boocho.up.seesaa.net/image/InkyConverter.zip).
