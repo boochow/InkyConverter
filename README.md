@@ -46,4 +46,4 @@ Although openFrameworks is a cross-platform toolkit, I have tested only on Windo
 
 ## Download
 
-Windows 32bit pre-built binary is [here](http://boocho.up.seesaa.net/image/InkyConverter.zip).
+Windows 32bit pre-built binary is [here](http://blog.boochow.com/wp-content/uploads/InkyConverter.zip).
